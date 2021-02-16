@@ -1,6 +1,6 @@
-# Webpack-Babel-Typescript-Jest
+# Webpack-Babel-Typescript-Svelte
 
-> Template for Webpack/Babel for typescript project and use of Jest for testing.
+> Template for Webpack/Babel for typescript/svelte project and use of Jest for testing.
 
 ## Run Development Server
 
