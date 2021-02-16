@@ -21,7 +21,7 @@ module.exports = {
         loader: "svelte-loader",
         exclude: /node_modules/,
         options: {
-          emitCss: true,
+          emitCss: false,
           preprocess: require("svelte-preprocess")({}),
         },
       },
